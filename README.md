@@ -1,82 +1,38 @@
-<!-- Banner -->
-<h1 align="center">Hi 👋, I'm Yuva sri K</h1>
-<h3 align="center">FullStack Developer</h3>
+# Hi there 👋 I’m Yuva sri K
 
----
+## 🚀 About Me  
+I’m a passionate software developer with a keen interest in AI-powered healthcare solutions and web development.  
+- 🎓 Currently working on a project for skin-cancer detection using **VGG16**, **TensorFlow/Keras**, and deploying it via **Flask** with chatbot support via **ChatterBot**.  
+- 💼 I also work with **MySQL** for user data management and integrate chat functions into web apps.  
+- 🔍 I enjoy solving technical interview questions in SQL, OOP, HTML, CSS and JavaScript — and writing clean, simple code.  
 
-## 🚀 About Me
-- 🔬 Currently building an **AI-powered Skin Cancer Detection Web App** using **VGG16 + TensorFlow/Keras**, **Flask**, **MySQL**, and **ChatterBot**.
-- 🧠 Interested in **AI-based healthcare**, **chatbots**, **web apps**, and **clean/simple code**.
-- 💡 I upload SQL, OOP, HTML, CSS & JS interview questions and examples.
-- 🎯 Goal: Become a Full-Stack AI Developer and build impactful real-world solutions.
+## 🛠 Skills & Technologies  
+| Category | Technologies |
+|----------|-------------|
+| Programming Languages | Java, JavaScript, SQL |
+| Web Development | HTML5, CSS3, Flask |
+| AI / ML / Data | TensorFlow, Keras, VGG16, image-classification |
+| Database | MySQL |
+| Chatbots & Assistants | ChatterBot |
+| Version Control & Collaboration | Git & GitHub |
 
----
+## 📁 Projects  
+Here are some of my key projects:  
+- **Skin Cancer Detection Web App** – End-to-end system built using Flask (frontend + backend), TensorFlow/Keras (VGG16 model for image classification), MySQL (user & result database), and a chatbot interface for user assistance.  
 
-## 🛠️ Skills & Technologies
-### **Languages**
-![Java](https://img.shields.io/badge/Python-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![SQL](https://img.shields.io/badge/SQL-orange)
+## 🎯 What I’m Doing Now  
+- Enhancing the skin-cancer detection project: adding more dataset variety, improving model accuracy, and refining the UI/UX.  
+- Building a personal portfolio website to showcase my projects and skills.  
 
-### **Web Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6)
-![Flask](https://img.shields.io/badge/Flask-black)
-
-### **AI / ML**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
-![Keras](https://img.shields.io/badge/Keras-red)
-![VGG16](https://img.shields.io/badge/VGG16-green)
-
-### **Database**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1)
-
-### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032)
-![GitHub](https://img.shields.io/badge/GitHub-181717)
-
----
-
-## 📌 Featured Project
-### 🔥 **AI Skin Cancer Detection & Virtual Dermatology Support**
-- ✔️ Uses **VGG16** for image classification  
-- ✔️ Built with **Flask**  
-- ✔️ User data stored in **MySQL**  
-- ✔️ Integrated **chatbot** using ChatterBot  
-- ✔️ Clean UI + real-time prediction  
-
----
-
-## 📈 GitHub Stats
-<div align="center">
-
-![Yuva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuvasrikaruna&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvasrikaruna&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuvasrikaruna&theme=tokyonight)
-</div>
-
----
-
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-</a>
-</p>
-
----
+## 📫 How to Reach Me  
+- Email: kyuvasri03@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/yuva-sri-dev/
+- GitHub: [github.com/yuvasrikaruna](https://github.com/yuvasrikaruna)  
+- Feel free to open issues or pull requests on my repos — I welcome collaboration and learning from the community.
 
 ## ⚡ Fun Fact  
-I love exploring how AI can change healthcare.  
-When I’m not coding, I’m researching ML papers or learning something new!
+I love exploring how AI can assist in healthcare and make a real-world impact. When I’m not coding, I’m probably learning a new algorithm, reading research papers, or brainstorming a side-project idea.  
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
-
+Thanks for visiting my profile! 😊  
